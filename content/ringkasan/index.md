@@ -14,7 +14,7 @@ showZenMode: false
 
 ## Sekilas
 
-![ Web Thumbnail ]( web_thumbnail.png )
+![ Web Thumbnail ]( desktop_thumbnail.png )
 
 `Manusia` yang terpikat pada malam yang gelap dengan mata terpaku pada langit malam yang dipenuhi cahaya bintang yang berserakan disetiap titik. Cahaya bulan yang mengungkap kegelapan pikiran, memberikan wawasan baru dan memperluas pandangan. Pena menjadi pemandu paling kuat dalam perpanjangan dari keingintahuan dan kekaguman terhadap `Tuhan, Sang pencipta`.
 
