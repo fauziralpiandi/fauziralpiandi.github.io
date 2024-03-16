@@ -1,0 +1,20 @@
+languageCode = "id"
+languageName = "Indonesia"
+weight = 1
+
+title = "Fauzira Alpiandi"
+
+[params]
+  displayName = "Indonesia"
+  isoCode = "id"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "imgs/logo.png"
+  description = "Eksplorasi tak terbatas menuju langit impian!"
+  copyright = "Copyright &copy; Fauzira Alpiandi 2024"
+
+[author]
+  name = "Fauzira Alpiandi"
+  image = "imgs/hero.jpg"
+	headline = "fwzyrln_"
+	links = [ { google = "https://g.dev/fwzyrln" } ]

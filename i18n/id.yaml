@@ -1,0 +1,66 @@
+global:
+  language: "🇮🇩"
+
+article:
+  anchor_label: "Anchor"
+  date: "{{ .Date }}"
+  date_updated: "Terakhir diperbarui: {{ .Date }}"
+  draft: "Draft"
+  edit_title: "Edit"
+  reading_time:
+    one: "{{ .Count }} menit"
+    other: "{{ .Count }} menit"
+  reading_time_title: "Waktu baca"
+  table_of_contents: "Daftar isi"
+  word_count:
+    one: "{{ .Count }} kata"
+    other: "{{ .Count }} kata"
+  views:
+    one: "{{ .Count }} dilihat"
+    other: "{{ .Count }} dilihat"
+  likes:
+    one: "{{ .Count }} disukai"
+    other: "{{ .Count }} disukai"
+  part_of_series: "Postingan ini merupakan bagian dari Seri."
+  part: "Bagian"
+  this_article: "Postingan ini"
+  related_articles: "Terkait"
+  zen_mode_title:
+    enable: "Aktifkan mode baca"
+    disable: "Nonaktifkan mode baca"
+
+author:
+  byline_title: "Penulis"
+
+code:
+  copy: "Salin"
+  copied: "Disalin"
+
+error:
+  404_title: "Halaman tidak ditemukan :confused:"
+  404_error: "404"
+  404_description: "Halaman yang Kamu minta tidak ada."
+
+footer:
+  dark_appearance: "Tampilan gelap"
+  light_appearance: "Tampilan terang"
+  powered_by: "ﷲ"
+
+list:
+  externalurl_title: "Tautan ke situs eksternal"
+  no_articles: "Belum ada postingan :smile:"
+
+nav:
+  scroll_to_top_title: "Gulir ke atas"
+  skip_to_main: "Lewati!"
+
+search:
+  open_button_title: "Cari (/)"
+  close_button_title: "Tutup (Esc)"
+  input_placeholder: "Pencarian"
+
+shortcode:
+  recent_articles: "Terbaru"
+
+recent:
+  show_more: "Jelajahi lainnya"

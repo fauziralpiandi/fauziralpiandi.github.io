@@ -1,0 +1,1 @@
+[![Deployments](https://github.com/fauziralpiandi/fauziralpiandi.github.io/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/fauziralpiandi/fauziralpiandi.github.io/actions/workflows/main.yml) ^-

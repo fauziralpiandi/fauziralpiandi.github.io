@@ -1,0 +1,37 @@
+[[main]]
+  pre = "stars"
+  name = "Ringkasan"
+  pageRef = "ringkasan"
+  weight = 10
+
+[[main]]
+  pre = "postcard"
+  name = "Postingan"
+  pageRef = "postingan"
+  weight = 12.5
+
+[[main]]
+  pre = "images"
+  name = "Galeri"
+  pageRef = "galeri"
+  weight = 15
+
+[[main]]
+  pre = "option"
+  name = "Lainnya"
+  weight = 17.5
+
+[[main]]
+  pre = "journals"
+  name = "Catatan"
+  pageRef = "catatan"
+  weight = 17.5
+  parent = "Lainnya"
+
+[[main]]
+  pre = "music-note-beamed"
+  name = "Musik"
+  url = "https://fauziralpiandi.github.io/music"
+  weight = 20
+  parent = "Lainnya"
+	
