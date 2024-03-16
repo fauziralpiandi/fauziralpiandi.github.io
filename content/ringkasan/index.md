@@ -1,8 +1,8 @@
 ---
 title: "Ringkasan"
 date: "2024-03-01T18:00:00+07:00"
-description: "Manusia yang terpikat pada malam yang gelap dengan mata terpaku pada langit malam yang dipenuhi cahaya bintang yang berserakan disetiap titik. Cahaya bulan yang mengungkap kegelapan pikiran, memberikan wawasan baru dan memperluas pandangan. Pena menjadi pemandu paling kuat dalam perpanjangan dari keingintahuan dan kekaguman terhadap Tuhan, Sang pencipta."
-keywords: [ "ringkasan", "fauzira", "alpiandi" ]
+description: "Manusia yang terpikat pada malam yang gelap dengan mata terpaku pada langit malam yang dipenuhi cahaya bintang yang berserakan disetiap titik."
+keywords: [ "ringkasan" ]
 summary: "Eksplorasi tak terbatas menuju langit impian!"
 showRelatedContent: false
 showZenMode: false
