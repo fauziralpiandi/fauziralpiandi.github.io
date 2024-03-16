@@ -1,4 +1,4 @@
-/* Blowfish | MIT License | https://github.com/nunocoracao/blowfish */
+/*! Blowfish | MIT License | https://github.com/nunocoracao/blowfish */
 
 @import 'components/zen-mode.css';
 
@@ -454,19 +454,19 @@ pre {
 .nested-menu:hover + .menuhide {
   visibility: visible;
   opacity: 1;
-  transition: visibility 0.75s, opacity 0.75s ease-in-out ;
+  transition: visibility 0.3s, opacity 0.3s ease-in-out ;
 }
 
 .menuhide:hover {
   visibility: visible;
   opacity: 1;
-  transition: visibility 0.75s, opacity 0.75s ease-in-out ;
+  transition: visibility 0.3s, opacity 0.3s ease-in-out ;
 }
 
 .menuhide {
   visibility: hidden;
   opacity: 0;
-  transition: visibility 0.75s, opacity 0.75s ease-in-out ;
+  transition: visibility 0.3s, opacity 0.3s ease-in-out ;
   z-index: 1000;
 }
 

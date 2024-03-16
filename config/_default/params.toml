@@ -12,7 +12,7 @@ defaultBackgroundImage = "/imgs/background.jpg"
 defaultFeaturedImage = "/imgs/background.jpg"
 
 highlightCurrentMenuArea = true
-smartTOC = false
+smartTOC = true
 smartTOCHideUnfocusedChildren = false
 
 [header]
