@@ -14,7 +14,7 @@ showZenMode: false
 
 ## Sekilas
 
-![ Web Thumbnail ]( desktop_thumbnail.png )
+![ Demo ]( 1024x768.png "1024 x 768" )
 
 `Manusia` yang terpikat pada malam yang gelap dengan mata terpaku pada langit malam yang dipenuhi cahaya bintang yang berserakan disetiap titik. Cahaya bulan yang mengungkap kegelapan pikiran, memberikan wawasan baru dan memperluas pandangan. Pena menjadi pemandu paling kuat dalam perpanjangan dari keingintahuan dan kekaguman terhadap `Tuhan, Sang pencipta`.
 
@@ -31,7 +31,5 @@ Menggali setiap sudut dan celah diranah digital dalam mencari solusi efektif dan
 Dengan tujuan ini, saya terus meneliti alat dan platform yang akan membantu mempublikasikan, menghadapi kompleksitas dan dinamika ekosistem digital tanpa menimbulkan terlalu banyak hambatan, terutama dalam hal membangun lalu menyampaikan, mengeksplorasi kemungkinan baru sebagai penghubung antara ide kreatif dan teknologi modern. Setiap catatan riset adalah petunjuk untuk memahami potensi inovasi yang dapat mengangkat kualitas konten ke tingkat lanjut.
 
 Saya membangun website sebagai portal untuk terus menjelajah dan berpikir luas, merangkul gagasan, memperluas potensi, dan mencapai tujuan yang lebih besar. Dengan gaya visual menarik dan membangun visi yang unik untuk mekanisme situs web interaktif. Ini solusi terbaik untuk menjangkau ide dan kreativitas.
-
-<br />
 
 Selamat menjelajah!
