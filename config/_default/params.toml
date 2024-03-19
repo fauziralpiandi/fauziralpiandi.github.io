@@ -16,14 +16,14 @@ smartTOC = true
 smartTOCHideUnfocusedChildren = false
 
 [header]
-  layout = "fixed"
+  layout = "fixed-gradient"
 
 [homepage]
   layout = "background"
   homepageImage = "/imgs/background.jpg"
-  showRecent = false
-  showRecentItems = 3
-  showMoreLink = false
+  showRecent = true
+  showRecentItems = 1
+  showMoreLink = true
   showMoreLinkDest = "/postingan"
   cardView = true
   cardViewScreenWidth = true
