@@ -1,7 +1,7 @@
 ---
 title: "Galeri"
-date: "2024-03-01T18:00:00+07:00"
-lastmod: "2024-03-17T16:00:00+07:00"
+date: "2024-03-01T22:00:00-07:00"
+lastmod: "2024-03-17T23:00:00-07:00"
 description: "Selalu ada hal yang bisa dinikmati oleh semua orang,"
 keywords: [ "galeri" ]
 summary: "Selalu ada hal yang bisa dinikmati oleh semua orang,"
