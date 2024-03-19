@@ -1,6 +1,6 @@
 ---
 title: "Software Engineer AI Pertama"
-date: "2024-03-15T18:00:00+07:00"
+date: "2024-03-15T19:45:00-07:00"
 description: "Platform kecerdasan buatan sekaligus insinyur perangkat lunak pertama berbasis AI."
 summary: "Platform kecerdasan buatan sekaligus insinyur perangkat lunak pertama berbasis AI."
 showRelatedContent: false

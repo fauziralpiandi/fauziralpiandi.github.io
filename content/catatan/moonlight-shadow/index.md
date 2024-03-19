@@ -1,6 +1,6 @@
 ---
 title: "Moonlight Shadow"
-date: "2023-10-14T19:00:00+07:00"
+date: "2023-10-14T02:00:00-07:00"
 description: "aku tahu persis bagaimana aku megingatnya, memang itulah yang tuhan kehendaki untukku. dan sejak hari itu, aku berpikir bahwa aku belum selayaknya."
 summary: "aku tahu persis bagaimana aku megingatnya, memang itulah yang tuhan kehendaki untukku. dan sejak hari itu, aku berpikir bahwa aku belum selayaknya."
 showRelatedContent: false
@@ -8,7 +8,7 @@ authors:
     - fauziralpiandi
 ---
 
-{{< icon "stars" >}} P
+{{< icon "stars" >}}
 
 {{< lead >}}
 **aku tahu persis bagaimana aku mengingatnya,**
@@ -48,4 +48,5 @@ lalu aku berbicara pada apa yang menggenggam hati ini, sungguhlah indah rasa yan
 
 semoga jalan yang kami pilih menjadi sesuatu yang baik, sebuah keberkahan, kami hanya mengharapkan kebaikan untuk diri kami masing-masing, yang terbaik dari-mu.
 
-{{< icon "moon-stars-fill" >}} moonlight shadow and see you soo(n) ^-
+{{< icon "moon-stars-fill" >}}
+moonlight shadow and see you soo(n) ^-
