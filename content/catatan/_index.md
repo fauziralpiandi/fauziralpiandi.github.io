@@ -1,6 +1,6 @@
 ---
 title: "Catatan"
-date: "2024-03-01T18:43:00-07:00"
+date: "2023-10-01T18:43:00-07:00"
 descrtiption: "Hanya mencatat apa yang saya pikirkan,"
 keywords: [ "catatan" ]
 ---
