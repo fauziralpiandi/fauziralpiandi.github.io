@@ -1,7 +1,7 @@
 ---
 title: "Galeri"
-date: "2024-03-01T22:00:00-07:00"
-lastmod: "2023-10-01T23:00:00-07:00"
+date: "2023-10-01T22:00:00-07:00"
+lastmod: "2024-03-17T23:00:00-07:00"
 description: "Selalu ada hal yang bisa dinikmati oleh semua orang,"
 keywords: [ "galeri" ]
 summary: "Selalu ada hal yang bisa dinikmati oleh semua orang,"
@@ -22,17 +22,17 @@ Monochrome
 {{</ lead >}}
 
 {{< gallery >}}
-<img src="./monochrome/img_20240303a.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="./monochrome/img_20240303b.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="./monochrome/img_20240303c.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="./monochrome/img_20240303d.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="./monochrome/img_20240303e.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="./monochrome/img_20240303f.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="./monochrome/img_20240305a.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="./monochrome/img_20240305b.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="./monochrome/img_20240308a.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="./monochrome/img_20240308b.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="./monochrome/img_20240308c.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./monochrome/img_20231001a.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./monochrome/img_20231001b.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./monochrome/img_20231001c.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./monochrome/img_20231001d.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./monochrome/img_20231001e.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./monochrome/img_20231001f.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./monochrome/img_20231001g.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./monochrome/img_20231001h.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./monochrome/img_20231001i.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./monochrome/img_20231001j.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./monochrome/img_20231001k.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{</ gallery >}}
 
 <br />
