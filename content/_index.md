@@ -5,6 +5,6 @@ description: "Explorasi tak terbatas menuju langit impian!"
 keywords: [ "fauzira", "alpiandi" ]
 ---
 
-{{< typeit speed=60 lifeLike=true >}}
-Eksplorasi tak terbatas menuju langit impian!
-{{</ typeit >}}
+{{< lead >}}
+⋆.˚ رمضان كريم ✧☽
+{{</ lead >}}
