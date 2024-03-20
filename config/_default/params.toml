@@ -39,7 +39,7 @@ smartTOCHideUnfocusedChildren = false
 [article]
   showDate = true
   showViews = false
-  showLikes = false
+  showLikes = true
   showComments = false
   showDateOnlyInArticle = false
   showDateUpdated = true
@@ -110,3 +110,12 @@ smartTOCHideUnfocusedChildren = false
 
 [verification]
   google = "NNFQdDi8d_6fGe9QRLnL-2PSez3KeYG4ReZwo2lZJR4"
+
+[firebase]
+  apiKey = "AIzaSyCtyaiDOTbxAZS5L1WGhUzlCo5oAewWP_s"
+  authDomain = "fwzyrln-homepages.firebaseapp.com"
+  projectId = "fwzyrln-homepages"
+  storageBucket = "fwzyrln-homepages.appspot.com"
+  messagingSenderId = "208798924992"
+  appId = "1:208798924992:web:326ccad075582279caed25"
+  measurementId = "G-TKB47ZMDVF"
