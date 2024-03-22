@@ -4,8 +4,7 @@ date: "2024-03-15T19:45:00-07:00"
 description: "Platform kecerdasan buatan sekaligus insinyur perangkat lunak pertama berbasis AI."
 summary: "Platform kecerdasan buatan sekaligus insinyur perangkat lunak pertama berbasis AI."
 showRelatedContent: false
-posts: [ "artikel" ]
-tags: [ "teknologi" ]
+tags: [ "platform", "teknologi" ]
 authors:
     - fauziralpiandi
 ---
@@ -40,7 +39,7 @@ Untuk automatisasi proses, `Devin AI` dapat mengotomatisasi sejumlah tugas dan p
 
 ## Resiko
 
-Dan tentunya membawa dampak buruk karena otomatisasi yang dibawa oleh `Devin AI` bisa saja terjadi, untuk itu penting bagi organisasi mengadopsi secara bijaksana, mempertimbangkan implikasi etis, sosial, dan keamanannya, serta menyediakan pelatihan dan dukungan yang memadai bagi karyawan atau individu yang terpengaruh oleh perubahan teknologi tersebut.
+Dan mungkin akan membawa dampak buruk karena otomatisasi yang dibawa oleh `Devin AI` bisa saja terjadi, untuk itu penting bagi organisasi mengadopsi secara bijaksana, mempertimbangkan implikasi etis, sosial, dan keamanannya, serta menyediakan pelatihan dan dukungan yang memadai bagi karyawan atau individu yang terpengaruh oleh perubahan teknologi tersebut.
 
 <br />
 

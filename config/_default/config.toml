@@ -13,7 +13,7 @@ googleAnalytics = "G-TKB47ZMDVF"
 
 [taxonomies]
   author = "authors"
-  post = "posts"
+  series = "series"
   tag = "tags"
 
 [sitemap]
@@ -34,7 +34,7 @@ googleAnalytics = "G-TKB47ZMDVF"
   weight = 100
 
 [[related.indices]]
-  name = "posts"
+  name = "series"
   weight = 75
 
 [[related.indices]]
