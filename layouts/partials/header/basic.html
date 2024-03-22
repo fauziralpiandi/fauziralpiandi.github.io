@@ -48,10 +48,10 @@
                 class="{{ if .Site.Params.footer.showScrollToTop | default true -}} ltr:mr-14 rtl:ml-14 {{- end }} flex items-center">
                 <button id="appearance-switcher" aria-label="Dark mode switcher" type="button" class="text-base hover:text-primary-600 dark:hover:text-primary-400">
                     <div class="flex items-center justify-center dark:hidden">
-                        {{ partial "icon.html" "moon" }}
+                        {{ partial "icon.html" "sun" }}
                     </div>
                     <div class="items-center justify-center hidden dark:flex">
-                        {{ partial "icon.html" "sun" }}
+                        {{ partial "icon.html" "moon-stars-fill" }}
                     </div>
                 </button>
             </div>
@@ -75,10 +75,10 @@
             {{ if .Site.Params.footer.showAppearanceSwitcher | default false }}
             <button id="appearance-switcher-mobile" aria-label="Dark mode switcher" type="button" class="text-base hover:text-primary-600 dark:hover:text-primary-400" style="margin-right:5px">
                 <div class="flex items-center justify-center dark:hidden">
-                    {{ partial "icon.html" "moon" }}
+                    {{ partial "icon.html" "sun" }}
                 </div>
                 <div class="items-center justify-center hidden dark:flex">
-                    {{ partial "icon.html" "sun" }}
+                    {{ partial "icon.html" "moon-stars-fill" }}
                 </div>
             </button>
             {{ end }}
