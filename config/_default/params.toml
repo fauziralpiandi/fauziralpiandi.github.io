@@ -21,10 +21,10 @@ smartTOCHideUnfocusedChildren = false
 [homepage]
   layout = "background"
   homepageImage = "/imgs/background.jpg"
-  showRecent = true
+  showRecent = false
   showRecentItems = 1
   showMoreLink = false
-  showMoreLinkDest = "/postingan"
+  # showMoreLinkDest = "/"
   cardView = true
   cardViewScreenWidth = true
   layoutBackgroundBlur = true

@@ -1,21 +1,21 @@
 const fs = require('fs');
 const translate = require('@iamtraction/google-translate');
 
-const configDir = "./exampleSite/config/_default";
-const contentDir = "./exampleSite/content";
-const defaultLang = "en";
-const targetLang = process.argv[2] || "en";
-const targetLangIso = targetLang == "pt" ? "pt-pt" : targetLang;
+const configDir = "./config/_default";
+const contentDir = "./content";
+const defaultLang = "id";
+const targetLang = process.argv[2] || "id";
+const targetLangIso = targetLang == "id" ? "id" : targetLang;
 
 
 function createConfigs() {
     const files = fs.readdirSync(configDir);
     files.forEach(file => {
         const filePath = `${configDir}/${file}`;
-        if (filePath.indexOf("languages.en.toml") > -1 ||
-            filePath.indexOf("menus.en.toml") > -1) {
+        if (filePath.indexOf("languages.id.toml") > -1 ||
+            filePath.indexOf("menus.id.toml") > -1) {
             var fileContent = fs.readFileSync(filePath, 'utf8');
-            fs.writeFileSync(filePath.replace(".en.toml", "." + targetLangIso + ".toml"), fileContent, 'utf8');
+            fs.writeFileSync(filePath.replace(".id.toml", "." + targetLangIso + ".toml"), fileContent, 'utf8');
         }
     });
 }
@@ -43,7 +43,7 @@ async function processFrontMatter(block) {
                 elements[0] == "description" ||
                 elements[0] == "summary" ||
                 elements[0] == "description" ||
-                elements[0] == "categories" ||
+                elements[0] == "authors" ||
                 elements[0] == "tags") {
                 var translatedElement = elements[1] ? await convert(elements[1], defaultLang, targetLang) : elements[1];
                 newElement = elements[0] + ": " + translatedElement;

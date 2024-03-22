@@ -44,7 +44,7 @@ error:
 footer:
   dark_appearance: "Tampilan gelap"
   light_appearance: "Tampilan terang"
-  powered_by: "ﷲ"
+  built_with: "Built with {{ .Tailwind }}"
 
 list:
   externalurl_title: "Tautan ke situs eksternal"

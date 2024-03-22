@@ -40,11 +40,11 @@
     {{ if .Site.Params.footer.showThemeAttribution | default true }}
     <p class="text-xs text-neutral-500 dark:text-neutral-400">
       {{ $hugo := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-        href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a>`
+        href="https://gohugo.io/" target="_blank" rel="noopener noreferrer"><b>Hugo</b></a>`
       }}
-      {{ $blowfish := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-        href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>` }}
-      {{ i18n "footer.powered_by" (dict "Hugo" $hugo "Theme" $blowfish) | safeHTML }}
+      {{ $tailwind := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+        href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><b>Tailwind CSS</b></a>` }}
+      {{ i18n "footer.built_with" (dict "Hugo" $hugo "Tailwind" $tailwind) | safeHTML }}
     </p>
     {{ end }}
 

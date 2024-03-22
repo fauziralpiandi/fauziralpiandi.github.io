@@ -8,30 +8,44 @@
   pre = "postcard"
   name = "Postingan"
   pageRef = "postingan"
-  weight = 12.5
+  weight = 12
+
+[[main]]
+  pre = "newspaper"
+  name = "Artikel"
+  pageRef = "artikel"
+  weight = 13
+  parent = "Postingan"
+
+[[main]]
+  pre = "send"
+  name = "Blog"
+  pageRef = "blog"
+  weight = 13
+  parent = "Postingan"
 
 [[main]]
   pre = "images"
   name = "Galeri"
   pageRef = "galeri"
-  weight = 15
+  weight = 14
 
 [[main]]
   pre = "option"
   name = "Lainnya"
-  weight = 17.5
+  weight = 16
 
 [[main]]
   pre = "journals"
   name = "Catatan"
   pageRef = "catatan"
-  weight = 17.5
+  weight = 17
   parent = "Lainnya"
 
 [[main]]
   pre = "music-note-beamed"
   name = "Musik"
   url = "https://fauziralpiandi.github.io/music"
-  weight = 20
+  weight = 17
   parent = "Lainnya"
 	

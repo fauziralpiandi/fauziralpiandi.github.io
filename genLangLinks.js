@@ -1,8 +1,8 @@
 const fs = require('fs');
 
-const configDir = "./exampleSite/config/_default";
-const contentDir = "./exampleSite/content";
-const defaultLang = "en";
+const configDir = "./config/_default";
+const contentDir = "./content";
+const defaultLang = "id";
 
 var targetLangs = []
 
