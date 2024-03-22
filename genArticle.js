@@ -1,10 +1,10 @@
 const fs = require('fs');
 const translate = require('@iamtraction/google-translate');
 
-const defaultLang = "en";
-const targetLang = process.argv[2] || "en";
+const defaultLang = "id";
+const targetLang = process.argv[2] || "id";
 const filePath = process.argv[3];
-const targetLangIso = targetLang == "pt" ? "pt-pt" : targetLang;
+const targetLangIso = targetLang == "id" ? "id" : targetLang;
 const targetFilePath = filePath.replace(".md", "." + targetLangIso + ".md");
 
 async function convert(text, from, to) {
@@ -30,7 +30,7 @@ async function processFrontMatter(block) {
                 elements[0] == "description" ||
                 elements[0] == "summary" ||
                 elements[0] == "description" ||
-                elements[0] == "categories" ||
+                elements[0] == "authors" ||
                 elements[0] == "tags") {
                 var translatedElement = elements[1] ? await convert(elements[1], defaultLang, targetLang) : elements[1];
                 newElement = elements[0] + ": " + translatedElement;
