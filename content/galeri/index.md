@@ -2,10 +2,9 @@
 title: "Galeri"
 date: "2023-10-01T22:00:00-07:00"
 lastmod: "2024-03-17T23:00:00-07:00"
-description: "Selalu ada hal yang bisa dinikmati oleh semua orang,"
+description: "Selalu ada hal yang bisa dinikmati oleh semua orang, tidak perlu berlebihan."
 keywords: [ "galeri" ]
-summary: "Selalu ada hal yang bisa dinikmati oleh semua orang,"
-showTableOfContents: false
+summary: "Selalu ada hal yang bisa dinikmati oleh semua orang, tidak perlu berlebihan."
 showRelatedContent: false
 showDate: false
 showWordCount: false
@@ -13,7 +12,7 @@ showReadingTime: false
 showZenMode: false
 ---
 
-*Selalu ada hal yang bisa dinikmati oleh semua orang,*
+*Selalu ada hal yang bisa dinikmati oleh semua orang, tidak perlu berlebihan.*
 
 ---
 
@@ -49,4 +48,3 @@ Non-Aesthetic Things
 <img src="./nat/img_20240317e.jpg" class="grid-w50" />
 <img src="./nat/img_20240317f.jpg" class="grid-w50" />
 {{</ gallery >}}
-
