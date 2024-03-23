@@ -9,11 +9,15 @@ authors:
     - fauziralpiandi
 ---
 
-## Devin AI
+Software Engineer AI Pertama.
 
 {{< youtubeLite id=fjHtjT7GO1c label=Devin-AI >}}
 
-`Devin AI` merupakan platform kecerdasan buatan sekaligus insinyur perangkat lunak pertama berbasis AI yang dikembangkan pada periode sebelum tahun 2022 oleh [Cognition-Labs](https://www.cognition-labs.com/), sebuah tim kecil yang berbasis di New York dan San Francisco Guna membantu organisasi mengoptimalkan proses bisnis melalui teknologi [pemrosesan bahasa alami (NLP)](https://id.m.wikipedia.org/wiki/Pengolahan_bahasa_alami) dan analisis data. `Devin AI` dipergunakan dalam berbagai konteks, mulai dari layanan pelanggan hingga pengelolaan informasi dan analisis data.
+---
+
+## Devin AI
+
+Merupakan platform kecerdasan buatan sekaligus insinyur perangkat lunak pertama berbasis AI yang dikembangkan pada periode sebelum tahun 2022 oleh [Cognition-Labs](https://www.cognition-labs.com/), sebuah tim kecil yang berbasis di New York dan San Francisco Guna membantu organisasi mengoptimalkan proses bisnis melalui teknologi [pemrosesan bahasa alami (NLP)](https://id.m.wikipedia.org/wiki/Pengolahan_bahasa_alami) dan analisis data. `Devin AI` dipergunakan dalam berbagai konteks, mulai dari layanan pelanggan hingga pengelolaan informasi dan analisis data.
 
 Menetapkan kecanggihan baru dalam tolak ukur pengkodean [SWE-Bench](https://www.swebench.com/). Dilengkapi dengan kemampuan NLP untuk memahami dan memproses bahasa manusia, memungkinkan platform untuk menganalisis teks dari berbagai sumber, seperti email, chat, dan media sosial, serta memahami pertanyaan atau permintaan dari pengguna.
 

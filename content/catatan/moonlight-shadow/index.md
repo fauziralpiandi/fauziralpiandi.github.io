@@ -48,5 +48,4 @@ lalu aku berbicara pada apa yang menggenggam hati ini, sungguhlah indah rasa yan
 
 semoga jalan yang kami pilih menjadi sesuatu yang baik, sebuah keberkahan, kami hanya mengharapkan kebaikan untuk diri kami masing-masing, yang terbaik dari-mu.
 
-{{< icon "moon-stars-fill" >}}
-moonlight shadow and see you soo(n) ^-
+moonlight shadow and see you soo**n** ^-

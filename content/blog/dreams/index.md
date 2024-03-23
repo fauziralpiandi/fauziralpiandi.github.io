@@ -1,5 +1,5 @@
 ---
-title: "Dreams - Harris & Ford x AXMO ft. Sarah De Warren."
+title: "Dreams - Harris & Ford x AXMO ft. Sarah De Warren"
 date: "2024-03-12T21:00:00-07:00"
 description: "Dengan melodi yang menarik dan lirik yang menyentuh, lagu ini menangkap esensi dari mengejar impian."
 summary: "Dengan melodi yang menarik dan lirik yang menyentuh, lagu ini menangkap esensi dari mengejar impian."
@@ -9,11 +9,11 @@ authors:
     - fauziralpiandi
 ---
 
-## Dreams - Harris & Ford x AXMO ft. Sarah De Warren
+Dreams - Harris & Ford x AXMO ft. Sarah De Warren.
 
 {{< youtubeLite id=gcKFS_AZN2E label=Dreams >}}
 
-<br />
+---
 
 ## Lyric
 

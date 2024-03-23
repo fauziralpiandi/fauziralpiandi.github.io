@@ -1,20 +1,18 @@
 ---
 title: "Ringkasan"
 date: "2023-10-01T22:00:00-07:00"
-description: "Manusia yang terpikat pada malam yang gelap dengan mata terpaku pada langit malam yang dipenuhi cahaya bintang yang berserakan disetiap titik."
+description: "Manusia yang terpikat pada malam yang gelap dengan mata terpaku pada langit malam yang dipenuhi cahaya bintang yang berserakan disetiap titik"
 keywords: [ "ringkasan" ]
-summary: "Eksplorasi tak terbatas menuju langit impian!"
+summary: "Manusia yang terpikat pada malam yang gelap dengan mata terpaku pada langit malam yang dipenuhi cahaya bintang yang berserakan disetiap titik"
 showRelatedContent: false
 showZenMode: false
 ---
 
-*Eksplorasi tak terbatas menuju langit impian!*
+![ Demo ]( 1024x768.png "![Deployments Status](https://github.com/fauziralpiandi/fauziralpiandi.github.io/actions/workflows/main.yml/badge.svg?branch=main)" )
 
 ---
 
 ## Sekilas
-
-![ Demo ]( 1024x768.png "![Deployments Status](https://github.com/fauziralpiandi/fauziralpiandi.github.io/actions/workflows/main.yml/badge.svg?branch=main)" )
 
 `Manusia` yang terpikat pada malam yang gelap dengan mata terpaku pada langit malam yang dipenuhi cahaya bintang yang berserakan disetiap titik. Cahaya bulan yang mengungkap kegelapan pikiran, memberikan wawasan baru dan memperluas pandangan. Pena menjadi pemandu paling kuat dalam perpanjangan dari keingintahuan dan kekaguman terhadap `Tuhan, Sang pencipta`.
 
