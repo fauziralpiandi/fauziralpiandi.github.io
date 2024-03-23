@@ -4,9 +4,9 @@ function init() {
     if ('serviceWorker' in navigator && navigator.onLine) {
         navigator.serviceWorker.register('/service-worker.js')
         .then((reg) => {
-            console.log('Registrasi service worker Berhasil', reg);
+            console.log('Service worker registration successful', reg);
         }, (err) => {
-            console.error('Registrasi service worker Gagal', err);
+            console.error('Service worker registration failed', err);
         });
     }
 }
