@@ -1,9 +1,8 @@
 const CACHE_NAME = 'SW-001';
 const toCache = [
-    '/',
-    'staic/site.webmanifest',
-    'static/register.js',
-	  'static/android-chrome-512x512.png'
+	'/',
+	'static/site.webmanifest',
+	'static/register.js',
 ];
 
 self.addEventListener('install', function(event) {
@@ -34,7 +33,7 @@ self.addEventListener('activate', function(event) {
         .then((keyList) => {
             return Promise.all(keyList.map((key) => {
                 if (key !== CACHE_NAME) {
-                    console.log('[ServiceWorker] Hapus cache lama', key)
+                    console.log('[ServiceWorker] Delete old cache', key)
                     return caches.delete(key)
                 }
             }))
