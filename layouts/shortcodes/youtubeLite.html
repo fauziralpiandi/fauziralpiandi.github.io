@@ -1,4 +1,5 @@
 {{- $id := .Get "id" -}}
 {{- $label := .Get "id" -}}
+{{- $params := .Get "params" -}}
 
-<lite-youtube videoid="{{ $id }}" playlabel="{{ $label }}"></lite-youtube>
+<lite-youtube videoid="{{ $id }}" playlabel="{{ $label }}" params="{{ $params }}"></lite-youtube>
