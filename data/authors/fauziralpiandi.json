@@ -1,6 +1,6 @@
 {
   "name": "Fauzira Alpiandi",
   "image" : "imgs/hero.jpg",
-  "bio": "Hanya menulis apa yang saya ketahui, an ordinary frontend who is always thirsty for knowledge and pursued by curiosity.",
-  "social": [ { "email": "mailto:fauzyralpiandi@gmail.com" }, { "instagram": "https://instagram.com/fwzyrln_" }, { "whatsapp": "http://wa.me/+6283101474445" } ]
+	"bio": "Hanya menulis apa yang saya ketahui, an ordinary frontend who is always thirsty for knowledge and pursued by curiosity.",
+  "social": [ { "google": "https://g.dev/fwzyrln" }, { "email": "mailto:fauzyralpiandi@gmail.com" }, { "instagram": "https://instagram.com/fwzyrln_" }, { "whatsapp": "http://wa.me/+6283101474445" } ]
 }
