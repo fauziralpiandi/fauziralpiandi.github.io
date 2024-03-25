@@ -9,11 +9,6 @@
     "title": "sharing.facebook",
     "url": "https://www.facebook.com/sharer/sharer.php?u=%s&quote=%s"
   },
-	"instagram": {
-		"icon": "instagram",
-		"title": "sharing.instagram",
-		"url": "https://www.instagram.com/sharer/sharer.php?u=%s"
-	},
   "pinterest": {
     "icon": "pinterest",
     "title": "sharing.pinterest",
