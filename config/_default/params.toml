@@ -64,7 +64,7 @@ smartTOCHideUnfocusedChildren = false
   showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = true
-  sharingLinks = [ "email", "facebook", "instagram", "pinterest", "telegram", "whatsapp", "x-twitter" ]
+  sharingLinks = [ "email", "facebook", "pinterest", "telegram", "whatsapp", "x-twitter" ]
   showZenMode = true
 
 [list]
