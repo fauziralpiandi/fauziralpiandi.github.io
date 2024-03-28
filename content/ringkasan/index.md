@@ -8,7 +8,7 @@ showRelatedContent: false
 showZenMode: false
 ---
 
-![ Demo ]( 1024x768.png "![Deployments Status](https://github.com/fauziralpiandi/fauziralpiandi.github.io/actions/workflows/main.yml/badge.svg?branch=main)" )
+![ Demo ]( main_page.png "" )
 
 ---
 
