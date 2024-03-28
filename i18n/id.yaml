@@ -4,7 +4,7 @@ global:
 article:
   anchor_label: "Anchor"
   date: "{{ .Date }}"
-  date_updated: "Terakhir diperbarui: {{ .Date }}"
+  date_updated: "Diperbarui: {{ .Date }}"
   draft: "Draft"
   edit_title: "Edit"
   reading_time:
@@ -21,13 +21,10 @@ article:
   likes:
     one: "{{ .Count }} disukai"
     other: "{{ .Count }} disukai"
-  part_of_series: "Postingan ini merupakan bagian dari Seri."
-  part: "Bagian"
-  this_article: "Postingan ini"
   related_articles: "Terkait"
   zen_mode_title:
-    enable: "Aktifkan mode baca"
-    disable: "Nonaktifkan mode baca"
+    enable: "Aktifkan mode fokus"
+    disable: "Nonaktifkan mode fokus"
 
 author:
   byline_title: "Penulis"
@@ -58,6 +55,14 @@ search:
   open_button_title: "Cari (/)"
   close_button_title: "Tutup (Esc)"
   input_placeholder: "Pencarian"
+
+sharing:
+  email: "Kirim lewat surel"
+  facebook: "Bagikan ke Facebook"
+  pinterest: "Bagikan ke Pinterest"
+  telegram: "Bagikan ke Telegram"
+  whatsapp: "Kirim lewat WhatsApp"
+  x-twitter: "Tweet ke Twitter"
 
 shortcode:
   recent_articles: "Terbaru"
