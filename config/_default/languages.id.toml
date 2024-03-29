@@ -9,12 +9,12 @@ title = "Fauzira Alpiandi"
   isoCode = "id"
   rtl = false
   dateFormat = "Monday, 2 January 2006 15:04"
-  logo = "imgs/logo.png"
-  description = "Eksplorasi tak terbatas menuju langit impian!"
+  logo = "img/logo.png"
+  description = "Enthusiastic frontend developer. Just an avocado-powered robot that turns coffee into code, thirsty for knowledge and pursued by curiosity."
   copyright = "Copyright &copy; Fauzira Alpiandi 2024"
 
 [author]
   name = "Fauzira Alpiandi"
-  image = "imgs/hero.jpg"
+  image = "img/hero.jpg"
 	headline = "fwzyrln_"
 	
