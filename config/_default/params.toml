@@ -8,8 +8,8 @@ enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false
 
-defaultBackgroundImage = "/imgs/background.jpg"
-defaultFeaturedImage = "/imgs/background.jpg"
+defaultBackgroundImage = "/img/background.jpg"
+defaultFeaturedImage = "/img/background.jpg"
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -20,7 +20,7 @@ smartTOCHideUnfocusedChildren = false
 
 [homepage]
   layout = "background"
-  homepageImage = "/imgs/background.jpg"
+  homepageImage = "/img/background.jpg"
   showRecent = false
   showRecentItems = 1
   showMoreLink = false

@@ -119,10 +119,10 @@ module.exports = {
             },
             code:{
               backgroundColor: theme("colors.neutral.50 / 1"),
-              paddingTop: "3px",
-              paddingBottom: "3px",
-              paddingLeft: "5px",
-              paddingRight: "5px",
+              paddingTop: "2px",
+              paddingBottom: "2px",
+              paddingLeft: "4px",
+              paddingRight: "4px",
               borderRadius: "0.25rem",
             },
             'code::before': {

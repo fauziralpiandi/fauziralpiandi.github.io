@@ -2,7 +2,7 @@ const CACHE_NAME = 'SW-001';
 const toCache = [
 	'/',
 	'static/site.webmanifest',
-	'static/register.js',
+	'static/js/register.js',
 ];
 
 self.addEventListener('install', function(event) {
