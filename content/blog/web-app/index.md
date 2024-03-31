@@ -13,8 +13,6 @@ authors:
 **PWA (Progressive Web App)**
 {{</ lead >}}
 
----
-
 Jenis aplikasi web yang dirancang buat pengalaman pengguna yang mirip seperti aplikasi, lebih baik dan lebih responsif daripada web tradisional terutama diperangkat mobile, termasuk juga kemampuan akses ke perangkat keras, instalasi juga notifikasi push. Seringkali menawarkan solusi yang lebih terjangkau dan mudah dikelola developer daripada pengembangan aplikasi native pada umumnya.
 
 Ada banyak metode dalam pengembangan **PWA**, contohnya *App Shell Architecture, Web App Manifest, IndexedDB, App Bundling, dan lainnya*. Dan disini saya membahas salah satu dari sekian metode diatas, seperti **Service Worker** karena kebetulan saya juga menerapkan metode ini.
