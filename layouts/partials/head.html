@@ -11,7 +11,7 @@
   <meta name="title" content="{{ .Site.Title | emojify }}" />
   {{- else -}}
   <title>{{ .Title | emojify }} &verbar; {{ .Site.Title | emojify }}</title>
-  <meta name="title" content="{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}" />
+  <meta name="title" content="{{ .Title | emojify }} &verbar; {{ .Site.Title | emojify }}" />
   {{- end }}
   {{/* Metadata */}}
   {{ with (.Params.Summary | default .Params.Description) | default .Site.Params.description -}}

@@ -21,7 +21,7 @@ Monochrome
 {{</ lead >}}
 
 {{< gallery >}}
-<img src="./monochrome/img_20231001a.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./monochrome/img_20231001a.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" alt="Dark Crow"/>
 <img src="./monochrome/img_20231001b.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./monochrome/img_20231001c.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./monochrome/img_20231001d.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
