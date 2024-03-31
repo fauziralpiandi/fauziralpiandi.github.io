@@ -1,5 +1,5 @@
 ---
-title: "Progressive Web App"
+title: "Aplikasi Web Progresif"
 date: "2024-04-01T03:00:00-07:00"
 description: "Mengimplementasikan PWA pada website menggunakan metode Service Worker."
 summary: "Mengimplementasikan PWA pada website menggunakan metode Service Worker."
