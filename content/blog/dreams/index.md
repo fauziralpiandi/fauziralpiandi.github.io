@@ -4,7 +4,7 @@ date: "2024-03-12T21:00:00-07:00"
 description: "Dengan melodi yang menarik dan lirik yang menyentuh, lagu ini menangkap esensi dari mengejar impian."
 summary: "Dengan melodi yang menarik dan lirik yang menyentuh, lagu ini menangkap esensi dari mengejar impian."
 showRelatedContent: false
-tags: [ "musik", "edm", "rave" ]
+tags: [ "musik", "rave" ]
 authors:
     - fauziralpiandi
 ---
