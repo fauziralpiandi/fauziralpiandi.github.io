@@ -16,7 +16,7 @@ buildFuture = false
 [sitemap]
   changefreq = 'daily'
   filename = 'sitemap.xml'
-  priority = 1.0
+  priority = 0.5
 
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
@@ -37,7 +37,7 @@ buildFuture = false
   weight = 10
 
 [[related.indices]]
-  applyFilter = false
+  applyFilter = true
   name = 'fragmentrefs'
   type = 'fragments'
   weight = 10
