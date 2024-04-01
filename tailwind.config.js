@@ -2,8 +2,8 @@ module.exports = {
   content: [
     "./layouts/**/*.html",
     "./content/**/*.{html,md}",
-    "./fauziralpiandi.github.io/layouts/**/*.html",
-    "./fauziralpiandi.github.io/content/**/*.{html,md}",
+    "./themes/blowfish/layouts/**/*.html",
+    "./themes/blowfish/content/**/*.{html,md}",
     "./node_modules/tw-elements/js/**/*.js"
   ],
   darkMode: "class",
@@ -119,10 +119,10 @@ module.exports = {
             },
             code:{
               backgroundColor: theme("colors.neutral.50 / 1"),
-              paddingTop: "2px",
-              paddingBottom: "2px",
-              paddingLeft: "4px",
-              paddingRight: "4px",
+              paddingTop: "3px",
+              paddingBottom: "3px",
+              paddingLeft: "5px",
+              paddingRight: "5px",
               borderRadius: "0.25rem",
             },
             'code::before': {

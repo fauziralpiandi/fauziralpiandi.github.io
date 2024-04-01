@@ -3,8 +3,8 @@
     rtl
   {{- else -}}
     ltr
-  {{- end }}" class="scroll-smooth" data-default-appearance="{{ .Site.Params.defaultAppearance | default " dark" }}"
-  data-auto-appearance="{{ .Site.Params.autoSwitchAppearance | default " false" }}">
+  {{- end }}" class="scroll-smooth" data-default-appearance="{{ .Site.Params.defaultAppearance | default " light" }}"
+  data-auto-appearance="{{ .Site.Params.autoSwitchAppearance | default " true" }}">
 {{- partial "head.html" . -}}
 
 <body
@@ -24,14 +24,19 @@
   <div class="relative flex flex-col grow">
     <main id="main-content" class="grow">
       {{ block "main" . }}{{ end }}
-      {{ if and (.Site.Params.footer.showScrollToTop | default false) (gt .WordCount 1) }}
+      {{ if and (.Site.Params.footer.showScrollToTop | default true) (gt .WordCount 1) }}
       {{- partial "scroll-to-top.html" . -}}
       {{ end }}
     </main>
     {{- partial "footer.html" . -}}
-    {{ if .Site.Params.enableSearch | default true }}
+    {{ if .Site.Params.enableSearch | default false }}
     {{- partial "search.html" . -}}
     {{ end }}
   </div>
 </body>
+{{ if .Site.Params.buymeacoffee.globalWidget | default false }}
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
+  data-id="{{ .Site.Params.buymeacoffee.identifier }}" data-description="Support me on Buy me a coffee!" data-message="{{ .Site.Params.buymeacoffee.globalWidgetMessage | default "" }}"
+  data-color="{{ .Site.Params.buymeacoffee.globalWidgetColor | default "#FFDD00" }}" data-position="{{ .Site.Params.buymeacoffee.globalWidgetPosition | default "Left" }}" data-x_margin="18" data-y_margin="18"></script>
+{{ end }}
 </html>

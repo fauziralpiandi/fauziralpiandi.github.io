@@ -10,7 +10,7 @@
   <title>{{ .Site.Title | emojify }}</title>
   <meta name="title" content="{{ .Site.Title | emojify }}" />
   {{- else -}}
-  <title>{{ .Title | emojify }} &verbar; {{ .Site.Title | emojify }}</title>
+  <title>{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}</title>
   <meta name="title" content="{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}" />
   {{- end }}
   {{/* Metadata */}}
@@ -34,14 +34,14 @@
   {{ end -}}
   {{/* Asset bundles */}}
   {{ $assets := newScratch }}
-  {{ $cssScheme := resources.Get (printf "css/schemes/%s.css" (.Site.Params.colorScheme | default "monochrome")) }}
+  {{ $cssScheme := resources.Get (printf "css/schemes/%s.css" (.Site.Params.colorScheme | default "blowfish")) }}
   {{ if not $cssScheme }}
-  {{ $cssScheme = resources.Get "css/schemes/monochrome.css" }}
+  {{ $cssScheme = resources.Get "css/schemes/blowfish.css" }}
   {{ end }}
   {{ $assets.Add "css" (slice $cssScheme) }}
   {{ $cssMain := resources.Get "css/compiled/main.css" }}
   {{ $assets.Add "css" (slice $cssMain) }}
-  {{ $cssCustom := resources.Get "css/main.css" }}
+  {{ $cssCustom := resources.Get "css/custom.css" }}
   {{ if $cssCustom }}
   {{ $assets.Add "css" (slice $cssCustom) }}
   {{ end }}
@@ -89,8 +89,18 @@
   {{ with .Site.Params.verification.google }}
   <meta name="google-site-verification" content="{{ . }}" />
   {{ end }}
+  {{ with .Site.Params.verification.bing }}
+  <meta name="msvalidate.01" content="{{ . }}" />
+  {{ end }}
+  {{ with .Site.Params.verification.pinterest }}
+  <meta name="p:domain_verify" content="{{ . }}" />
+  {{ end }}
+  {{ with .Site.Params.verification.yandex }}
+  <meta name="yandex-verification" content="{{ . }}" />
+  {{ end }}
   {{/* Social */}}
   {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
   {{/* Schema */}}
   {{ partial "schema.html" . }}
   {{/* Me */}}
