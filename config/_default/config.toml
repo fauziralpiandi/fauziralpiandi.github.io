@@ -16,7 +16,7 @@ buildFuture = false
 [sitemap]
   changefreq = 'daily'
   filename = 'sitemap.xml'
-  priority = 0.5
+  priority = 1.0
 
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
