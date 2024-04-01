@@ -1,12 +1,10 @@
-baseURL = "https://fauziraalpiandi.github.io/"
+baseURL = "https://fauziralpiandi.github.io/"
 defaultContentLanguage = "id"
 
 paginate = 10
 
 buildDrafts = false
 buildFuture = false
-
-googleAnalytics = "G-TKB47ZMDVF"
 
 [imaging]
   anchor = 'Center'
@@ -24,9 +22,7 @@ googleAnalytics = "G-TKB47ZMDVF"
   home = [ "HTML", "RSS", "JSON" ]
 
 [related]
-  threshold = 1
-  includeNewer = true
-  toLower = true
+  threshold = 0
 
 [[related.indices]]
   name = "authors"
@@ -41,7 +37,7 @@ googleAnalytics = "G-TKB47ZMDVF"
   weight = 10
 
 [[related.indices]]
-  applyFilter = true
+  applyFilter = false
   name = 'fragmentrefs'
   type = 'fragments'
   weight = 10
