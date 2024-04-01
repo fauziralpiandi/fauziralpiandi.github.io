@@ -1,6 +1,6 @@
 {
   "name": "Fauzira Alpiandi",
-  "image" : "img/hero.jpg",
+  "image" : "imgs/hero.jpg",
 	"bio": "Enthusiastic frontend developer. Just an avocado-powered robot that turns coffee into code, thirsty for knowledge and pursued by curiosity.",
   "social": [ { "google": "https://g.dev/fwzyrln" }, { "email": "mailto:fauzyralpiandi@gmail.com" }, { "instagram": "https://instagram.com/fwzyrln_" }, { "whatsapp": "http://wa.me/+6283101474445" } ]
 }
