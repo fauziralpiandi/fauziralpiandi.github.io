@@ -106,7 +106,7 @@ smartTOCHideUnfocusedChildren = false
   cardViewScreenWidth = true
 
 [sitemap]
-  excludedKinds = [ "taxonomies", " term" ]
+  excludedKinds = []
 
 [verification]
   google = "NNFQdDi8d_6fGe9QRLnL-2PSez3KeYG4ReZwo2lZJR4"

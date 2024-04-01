@@ -25,6 +25,13 @@
   parent = "Postingan"
 
 [[main]]
+  pre = "journals"
+  name = "Catatan"
+  pageRef = "catatan"
+  weight = 13
+  parent = "Postingan"
+
+[[main]]
   pre = "images"
   name = "Galeri"
   pageRef = "galeri"
@@ -34,13 +41,6 @@
   pre = "option"
   name = "Lainnya"
   weight = 16
-
-[[main]]
-  pre = "journals"
-  name = "Catatan"
-  pageRef = "catatan"
-  weight = 17
-  parent = "Lainnya"
 
 [[main]]
   pre = "music-note-beamed"
