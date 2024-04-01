@@ -8,8 +8,8 @@ enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false
 
-defaultBackgroundImage = "/img/background.jpg"
-defaultFeaturedImage = "/img/background.jpg"
+defaultBackgroundImage = "/imgs/background.jpg"
+defaultFeaturedImage = "/imgs/background.jpg"
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -20,7 +20,7 @@ smartTOCHideUnfocusedChildren = false
 
 [homepage]
   layout = "background"
-  homepageImage = "/img/background.jpg"
+  homepageImage = "/imgs/background.jpg"
   showRecent = false
   showRecentItems = 1
   showMoreLink = false
@@ -53,7 +53,6 @@ smartTOCHideUnfocusedChildren = false
   showEdit = false
   editURL = "https://github.com/fauziralpiandi/fauziralpiandi.github.io/tree/main/content"
   editAppendPath = true
-  seriesOpened = false
   showHeadingAnchors = true
   showPagination = false
   invertPagination = false

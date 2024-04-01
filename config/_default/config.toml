@@ -22,7 +22,9 @@ buildFuture = false
   home = [ "HTML", "RSS", "JSON" ]
 
 [related]
-  threshold = 0
+  threshold = 1
+	includeNewer = true
+	toLower = true
 
 [[related.indices]]
   name = "authors"

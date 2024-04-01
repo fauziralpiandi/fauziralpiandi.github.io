@@ -2,20 +2,6 @@
 {{ $jqueryLib := resources.Get "lib/jquery/jquery.slim.min.js" }}
 <script src="{{ $jqueryLib.RelPermalink }}" integrity="{{ $jqueryLib.Data.Integrity }}"></script>
 
-{{/* Mermaid */}}
-{{ if .Page.HasShortcode "mermaid" }}
-  {{ $mermaidLib := resources.Get "lib/mermaid/mermaid.min.js" }}
-  {{ $mermaidConfig := resources.Get "js/mermaid.js" }}
-  {{ $mermaidConfig := $mermaidConfig | resources.Minify }}
-  {{ $mermaidJS := slice $mermaidLib $mermaidConfig | resources.Concat "js/mermaid.bundle.js" | resources.Fingerprint "sha512" }}
-  <script
-    defer
-    type="text/javascript"
-    src="{{ $mermaidJS.RelPermalink }}"
-    integrity="{{ $mermaidJS.Data.Integrity }}"
-  ></script>
-{{ end }}
-
 {{/* Chart */}}
 {{ if .Page.HasShortcode "chart" }}
 {{ $chartLib := resources.Get "lib/chart/chart.min.js" }}
