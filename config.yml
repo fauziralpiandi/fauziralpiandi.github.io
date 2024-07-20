@@ -1,0 +1,28 @@
+title: "Oxygen | Fauzira Alpiandi"
+
+hero: "https://raw.githubusercontent.com/fauziralpiandi/fauziralpiandi.github.io/main/assets/imgs/fauziralpiandi.jpg"
+
+name: "Fauzira Alpiandi"
+
+desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+social:
+  - href: "https://x.com"
+    icon: "https://cdn.jsdelivr.net/npm/@tabler/icons/icons/brand-twitter.svg"
+    alt: "X"
+  - href: "https://github.com"
+    icon: "https://cdn.jsdelivr.net/npm/@tabler/icons/icons/brand-github.svg"
+    alt: "GitHub"
+  - href: "https://linkedin.com"
+    icon: "https://cdn.jsdelivr.net/npm/@tabler/icons/icons/brand-linkedin.svg"
+    alt: "LinkedIn"
+    
+featured:
+  - text: "Author"
+    desc: "Lorem ipsum dolor sit amet."
+    icon: "https://cdn.jsdelivr.net/npm/@tabler/icons/icons/book.svg"
+  - text: "Coder"
+    desc: "Lorem ipsum dolor sit amet."
+    icon: "https://cdn.jsdelivr.net/npm/@tabler/icons/icons/cloud-upload.svg"
+    
+footer: "Copyright © Fauzira Alpiandi | All rights reserved."

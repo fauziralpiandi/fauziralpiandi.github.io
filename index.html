@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="id">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title id="title"></title>
+		<link
+			href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;700&display=swap"
+			rel="stylesheet"
+		/>
+		<link
+			href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
+			rel="stylesheet"
+		/>
+		<link
+			href="https://unpkg.com/medium-zoom@1.0.6/dist/medium-zoom.min.css"
+			rel="stylesheet"
+		/>
+		<link href="/src/index.css" rel="stylesheet" type="text/css" />
+		<link href="/src/favicon.svg" rel="icon" type="image/svg+xml" />
+	</head>
+	<body class="bg-gray-100 text-gray-90">
+		<main class="max-w-4xl mx-auto p-8 text-center">
+			<div class="flex flex-col items-center mb-8">
+				<img id="hero" class="w-24 h-24 rounded-full mb-4" />
+				<h1 id="name" class="text-4xl font-bold"></h1>
+			</div>
+			<div id="social" class="flex space-x-4 mb-8 justify-center"></div>
+			<p id="desc" class="text-lg mb-8"></p>
+			<section id="featured" class="grid gap-4 md:grid-cols-2 mb-8"></section>
+			<footer
+				id="footer"
+				class="text-center py-4 bg-gray-200 rounded-lg"
+			></footer>
+		</main>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+		<script src="https://unpkg.com/medium-zoom@1.0.6/dist/medium-zoom.min.js"></script>
+		<script type="module" src="/src/index.js"></script>
+	</body>
+</html>
