@@ -4,7 +4,7 @@ import { GeistSans } from 'geist/font/sans'
 import { GeistMono } from 'geist/font/mono'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://localhost:3000'),
+  metadataBase: new URL('https://fauziralpiandi.github.io'),
   title: {
     default: 'Next.js Portfolio Starter',
     template: '%s | Next.js Portfolio Starter',
@@ -48,7 +48,9 @@ export default function RootLayout({
       )}
     >
       <body className="max-w-xl px-8 antialiased">
-        <main className="flex-auto min-w-0 flex flex-col">{children}</main>
+        <main className="flex-auto min-w-0 flex flex-col">
+          {children}
+        </main>
       </body>
     </html>
   )
